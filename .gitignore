@@ -22,3 +22,67 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+/build
+/build/flutter_assets
+/windows/flutter
+
+
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+*.iml
+*.hprof
+
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+lib/generated_plugin_registrant.dart
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+
+# Logs / temp
+*.log
+*.tmp
+*.lock
+
+# Sensitive files (don’t upload!)
+*.keystore
+*.jks
+*.pem
+*.p12
+*.crt
+*.key
