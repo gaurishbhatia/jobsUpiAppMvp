@@ -86,3 +86,4 @@ lib/generated_plugin_registrant.dart
 *.p12
 *.crt
 *.key
+/android/app/src/main/java/io/flutter/plugins
