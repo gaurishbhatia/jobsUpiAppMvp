@@ -22,11 +22,4 @@ flutter:
   
   assets:
     - assets/images/
-    - assets/icons/
-  
-  fonts:
-    - family: DMSans
-      fonts:
-        - asset: assets/fonts/DMSans-Regular.ttf
-        - asset: assets/fonts/DMSans-Bold.ttf
-          weight: 700
+    # Removed missing directories to prevent build errors

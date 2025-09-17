@@ -1,0 +1,5 @@
+# This file ensures the assets/images directory is tracked by git
+# Add your image assets here:
+# - logo3.png
+# - left-side.png  
+# - right-side.png
